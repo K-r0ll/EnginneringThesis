@@ -7,4 +7,7 @@
 
 :heavy_check_mark:To activate the program start file with .exe
 
+:heavy_check_mark:For navigation in the cockpit use arrows
+
 :helicopter: Have fun with starting helicopter! :helicopter:
+
